@@ -224,3 +224,4 @@ If FreshRSS does not suit you for one reason or another, here are alternative so
 * [Kriss Feed](https://tontof.net/kriss/feed/)
 * [Leed](https://github.com/LeedRSS/Leed)
 * [And more…](https://alternativeto.net/software/freshrss/) (but if you like FreshRSS, give us a vote!)
+BARILOCHE
